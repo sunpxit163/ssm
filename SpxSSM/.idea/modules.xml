@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpxSSM.iml" filepath="$PROJECT_DIR$/SpxSSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spxdao/spx-dao.iml" filepath="$PROJECT_DIR$/spxdao/spx-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spxdomain/spx-domain.iml" filepath="$PROJECT_DIR$/spxdomain/spx-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spxservice/spx-service.iml" filepath="$PROJECT_DIR$/spxservice/spx-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spxutlis/spx-utlis.iml" filepath="$PROJECT_DIR$/spxutlis/spx-utlis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xyzweb/xyz-web.iml" filepath="$PROJECT_DIR$/xyzweb/xyz-web.iml" />
+    </modules>
+  </component>
+</project>

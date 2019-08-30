@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spx-dao" />
+        <module name="spx-domain" />
+        <module name="spx-service" />
+        <module name="spx-utlis" />
+        <module name="xyz-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spx-dao" target="1.8" />
+      <module name="spx-domain" target="1.8" />
+      <module name="spx-service" target="1.8" />
+      <module name="spx-utlis" target="1.8" />
+      <module name="SpxSSM" target="1.5" />
+      <module name="xyz-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
